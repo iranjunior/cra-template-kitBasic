@@ -14,4 +14,4 @@ jobs:
     install:
         - "yarn install --production=false"
     script: 
-        - yarn test:coverage --detectOpenHandles --forceExit
+        - yarn test:coverage --detectOpenHandles --forceExit -coverage --coverageReporters=text-lcov | ./node_modules/.bin/coveralls 

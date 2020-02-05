@@ -1,5 +1,9 @@
 
 # CRA Template Basic
+[![Build Status](https://travis-ci.com/iranjunior/cra-template-basic.svg?branch=master)](https://travis-ci.com/iranjunior/cra-template-basic)
+[![Coverage Status](https://coveralls.io/repos/github/iranjunior/cra-template-basic/badge.svg?branch=master)](https://coveralls.io/github/iranjunior/cra-template-basic?branch=master)
+[![dependencies Status](https://david-dm.org/iranjunior/cra-template-basic/status.svg)](https://david-dm.org/iranjunior/cra-template-basic)
+[![devDependencies Status](https://david-dm.org/iranjunior/cra-template-basic/dev-status.svg)](https://david-dm.org/iranjunior/cra-template-basic?type=dev)
 
 **Tabela de Conteudos**
 
