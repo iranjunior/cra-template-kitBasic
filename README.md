@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/iranjunior/cra-template-basic/badge.svg?branch=master)](https://coveralls.io/github/iranjunior/cra-template-basic?branch=master)
 [![dependencies Status](https://david-dm.org/iranjunior/cra-template-basic/status.svg)](https://david-dm.org/iranjunior/cra-template-basic)
 [![devDependencies Status](https://david-dm.org/iranjunior/cra-template-basic/dev-status.svg)](https://david-dm.org/iranjunior/cra-template-basic?type=dev)
-
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 **Tabela de Conteudos**
 
  - [Sobre o projeto](#sobre-o-projeto)
