@@ -12,8 +12,6 @@ cache:
 jobs:
     fast_finish: true
     install:
-        - "yarn install --production=false"
+        - yarn
     script: 
-        - yarn test:coverage --detectOpenHandles --forceExit --coverageReporters=text-lcov
-    after_success:
-        - ./node_modules/.bin/coveralls
+        - yarn test:coverage --detectOpenHandles --forceExit --coverageReporters=text-lcov && ./node_modules/.bin/coveralls
