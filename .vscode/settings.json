@@ -1,0 +1,18 @@
+{
+    "files.eol": "\n",
+    "debug.node.autoAttach": "off",
+    "jest.autoEnable": false,
+    "jest.showCoverageOnLoad": true,
+    "editor.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "jest.pathToJest": "npm test --",
+    "coverage-gutters.showGutterCoverage": true,
+    "coverage-gutters.coverageReportFileName": "coverage/**/index.html",
+    "coverage-gutters.customizable.status-bar-toggler-watchCoverageAndVisibleEditors-enabled": true,
+    "coverage-gutters.highlightdark": "rgba(45, 121, 10, 0.75)",
+    "coverage-gutters.xmlname": "coverage/clover.xml",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
