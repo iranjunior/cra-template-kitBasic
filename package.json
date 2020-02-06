@@ -1,8 +1,26 @@
 {
     "name": "cra-template-kitbasic",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "author": "Iran Junior",
+    "email":"iranjunior94@gmail.com",
     "private": false,
     "license": "MIT",
+    "keywords": [
+        "create-react-app",
+        "react",
+        "template",
+        "redux",
+        "styled-components",
+        "huskjs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iranjunior/cra-template-kitBasic"
+    },
+    "homepage": "https://github.com/iranjunior/cra-template-kitBasic#readme",
+    "engines": {
+        "node": ">=12.11.1"
+    },
     "dependencies": {
         "@testing-library/jest-dom": "^5.1.1",
         "@testing-library/react": "^9.3.2",
