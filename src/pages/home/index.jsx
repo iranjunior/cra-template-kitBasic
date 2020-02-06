@@ -8,5 +8,4 @@ const Home = () => (
     <Title />
   </Container>
 );
-
 export default Home;
